@@ -5,195 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dc6c5c5-976d-47e1-a7d1-d21abe8a0892" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/adminControllers/adminController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/adminControllers/bookingsController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/adminControllers/dashboardController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/adminControllers/masterCollectionController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/adminControllers/vendorVehilceRequests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/authController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/userControllers/userAllVehiclesController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/userControllers/userBookingController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/userControllers/userController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/userControllers/userProfileController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/vendorControllers/vendorBookingsController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/vendorControllers/vendorController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/vendorControllers/vendorCrudController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/models/BookingModel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/models/masterDataModel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/models/userModel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/models/vehicleModel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/adminRoute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/authRoute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/userRoute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/venderRoute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/services/checkAvailableVehicle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/utils/cloudinaryConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/utils/error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/utils/multer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/utils/verifyUser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.eslintrc.cjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/LOGO.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/My team1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/Myteam2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/Myteam3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/Myteam4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/Myteam5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/Myteam6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/about caricon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/about hero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/about renticon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/about repairicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/about salesman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/appstore.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/booking ignis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/booking swift lxi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/booking waganor blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/booking waganor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/booking-alto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/contactus background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage cars.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage downloadapp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage nohiddencharge.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage testimony2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage testtimony1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage tiremarks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_3cars.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_LetsDrive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_background.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_car_copy.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_contact_operator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_crosscountry.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_savemoney.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/homepage_select_car.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/playstore.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/profile dummy image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/vehicleModel1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/vehicleModel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/vehicleModel3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/vehicleModel4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/vehicleModel5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Assets/vehicleModel6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AdminPrivateRoutes.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/CustomModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Filter.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Header.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Layout/WithNav.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Layout/WithoutNav.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/OAuth.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/PrivateRoute.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Sort.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UserOrderDetailsModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UserProfileContent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UserProfileSidebar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UserSidebarContent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/VendorAuth.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/VendorPrivateRoute.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ui/Paralax.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ui/SkeletonLoader.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/utils/cn.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/constants/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/firebase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/hooks/useFetchLocationsLov.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/FlexBetween.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/AddProductModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Bookings.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/BookingsTable.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Button.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/CartHead.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Chat.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/EditProductComponent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Footer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Header.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Navbar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/Notification.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/SideBar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/ThemeSetter.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/UserProfile.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/charts/LineCahrt.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/charts/Pie.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/charts/Stack.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/components/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/dashboard/AdminDashNew.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/data/SidebarContents.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/data/dummy.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/data/dummys.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/data/welcome-bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/layouts/Layout.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/layouts/Navbar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/AdminHomeMain.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/AllUsers.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/AllVehicles.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/AllVendors.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/Calender.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/Charts/Area.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/Charts/Bar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/Charts/Line.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/ColorPicker.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/Customers.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/Editor.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/VenderVehicleRequests.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/admin/pages/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/AllVehiclesofSameModel.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/AvailableVehiclesAfterSearch.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/CarNotFound.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/CarSearch.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/CheckoutPage.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Contact.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Enterprise.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Favorites.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Home.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Orders.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Profile.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/ProfileEdit.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Razorpay.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/SignIn.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/SignUp.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/VehicleDetails.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/user/Vehicles.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorAddVehilceModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorBookingModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorBookingTable.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorBookings.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorDeleteVehicleModal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorEditProductComponent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorHeader.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Components/VendorSidebar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/Dashboard/VendorDashboard.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/data/vendorSidebarContents.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/pages/VendorAllVehicles.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/pages/VendorSignin.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/vendor/pages/VendorSignup.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/adminSlices/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/adminSlices/adminDashboardSlice/CarModelDataSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/adminSlices/adminDashboardSlice/DashboardSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/adminSlices/adminDashboardSlice/StatusSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/adminSlices/adminSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/adminSlices/reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/user/BookingDataSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/user/LatestBookingsSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/user/listAllVehicleSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/user/selectRideSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/user/sortfilterSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/user/userSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/vendor/vendorBookingSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/redux/vendor/vendorDashboardSlice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/tailwind.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/vercel.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/vite.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,29 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHELLCHECK.PATH": "I do mind",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/musta/Mobilo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;I do mind&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/musta/Mobilo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Mobilo" />
@@ -283,7 +97,7 @@
       <updated>1776255629799</updated>
       <workItem from="1776255631309" duration="6154000" />
       <workItem from="1776415066837" duration="8037000" />
-      <workItem from="1776760033482" duration="9005000" />
+      <workItem from="1776760033482" duration="9779000" />
     </task>
     <servers />
   </component>
