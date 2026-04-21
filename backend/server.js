@@ -9,7 +9,6 @@ import cors from 'cors'
 import cookieParser from "cookie-parser";
 import { cloudinaryConfig } from "./utils/cloudinaryConfig.js";
 
-
 const App = express();
 
 

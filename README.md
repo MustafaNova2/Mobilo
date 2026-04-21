@@ -163,6 +163,6 @@ A full-stack vehicle rental platform that allows users to explore and book vehic
 
 This platform delivers a complete vehicle rental solution with a scalable architecture, secure authentication, and role-based workflows for users, admins, and vendors.
 
+That's it. Clone it and have Fun.
 
-
-That's it. Have Fun!
+cheers!
