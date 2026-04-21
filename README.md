@@ -1,6 +1,4 @@
-
-# 🚗 Mobilo
-
+# 🚗 MoveX – Intelligent Mobility System - Book fast. Drive smarter.
 
 ## Installation
 
